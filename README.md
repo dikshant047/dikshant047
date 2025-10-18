@@ -3,7 +3,7 @@ Aspiring Full-Stack Developer | Learning by building
 
 🚀 What I'm Working On
 
-LearnFlow: Personal learning tracker (Next.js, TypeScript, PostgreSQL)
+Learning Next.js, TypeScript, PostgreSQL and more by building real world projects
 
 Daily DSA practice: 150+ LeetCode problems, 1400+ rating
 
